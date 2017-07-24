@@ -7,13 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TD2", "TD2\TD2.csproj", "{8
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{939A778C-7B72-4626-A61E-B440173CF7C9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{36DB7B2F-8D55-412E-8AB2-245D50940DAC}"
-	ProjectSection(SolutionItems) = preProject
-		build.sh = build.sh
-		deploy.sh = deploy.sh
-		task-definition.json = task-definition.json
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A84F4550-9BA1-4A74-805C-EB8386415FB1}"
 	ProjectSection(SolutionItems) = preProject
 		.travis.yml = .travis.yml
