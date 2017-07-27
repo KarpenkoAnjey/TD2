@@ -1,6 +1,6 @@
 sudo: required
 language: csharp
-solution: TD2.sln
+solution: td2.sln
 services:
   - docker
 matrix:
